@@ -6,6 +6,7 @@
 
 include ~/.config/sway/config.d/variables.conf
 include ~/.config/sway/config.d/outputs.conf
+include ~/.config/sway/config.d/keybinds.conf
 
 ### Key bindings
 #
